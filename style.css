@@ -92,7 +92,7 @@ button:hover {
 } */
 
 .right img {
-    width: 635px;
+    width: 80%;
     height: 820px;
     display: grid;
     align-items: end;
@@ -122,10 +122,12 @@ button:hover {
 }
 
 .item_top {
-    background-color: rgba(167, 33, 98, 0.15);
+    background-color: rgba(31, 111, 190, 0.59);
     height: 538px;
     width: 464px;
     border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    border-bottom-right-radius: 300px;
     border-top-right-radius: 300px;
     display: grid;
     justify-content: center;
